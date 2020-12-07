@@ -27,7 +27,7 @@ function App() {
                 fontWeight: "bold",
               }}
             >
-              Kendrick Tan
+              Name and Logo
             </p>
             <Navbar></Navbar>
           </div>

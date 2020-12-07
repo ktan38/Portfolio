@@ -10,10 +10,10 @@ class Header extends Component {
   render() {
     return (
       <div>
-        <h1 className="heading-background">KENDRICK</h1>
+        <h1 className="heading-background">PORTFOLIO</h1>
         <Fade bottom>
           <div className="header-title">
-            Kendrick Tan
+            Welcome!
             <br></br>
             <p>
               I'm a software developer and a UI/UX designer passionate about

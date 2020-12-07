@@ -28,7 +28,7 @@ class About extends Component {
             </p>
           </Fade>
         </div>
-        <img src="/me.png" alt="about image"></img>
+        <img src="/assets/imgs/placeholder-user.png" alt="about image"></img>
       </div>
     );
   }
