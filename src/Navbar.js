@@ -51,6 +51,19 @@ class Navbar extends Component {
               Work
             </Link>
           </li>
+          <li>
+            <Link
+              className="link"
+              activeClass="active"
+              to="contactform"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+            >
+              Contact
+            </Link>
+          </li>
         </ul>
       </nav>
     );
